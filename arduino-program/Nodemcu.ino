@@ -2,9 +2,9 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h> 
 
-char auth[] = "b97972925c1043b6ae258afe4bc3595f";   //Key From Blynk
-char ssid[] = "Samart_Project2.4G";                          //Wifi Name
-char pass[] = "19216801s";                           //Wifi Password
+char auth[] = "<token key from blynk>";         //Key From Blynk
+char ssid[] = "<wifi name>";                    //Wifi Name
+char pass[] = "<wifi password>";                //Wifi Password
 
 
 int val = 500;
