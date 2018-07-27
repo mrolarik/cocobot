@@ -1,4 +1,5 @@
-# CocoBot Hybrid 3 wheels robotics
+# CocoBot 
+## Hybrid 3 wheels robotics
 
 Specification  
 -------------------  
