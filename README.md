@@ -9,3 +9,4 @@ CocoBot เป็นหุ่นยนต์ที่ออกแบบให้
 - x1 Power switch
 - x1 Toggle switch
 
+[alt text](https://github.com/mrolarik/cocobot/blob/master/cocobot-image/cocobot-05.jpg "CocoBot")
