@@ -1,4 +1,6 @@
 # CocoBot 
+CocoBot เป็นหุ่นยนต์ที่ออกแบบให้สามารถทำงานได้แบบ Hybrid นั่นคือ สามารถสั่งการควบคุมได้จาก Raspberry Pi และ NodeMCU
+
 ## Hybrid 3 wheels robotics
 
 Specification  
